@@ -33,7 +33,7 @@ html, body {
     z-index: 1;
 }
 #nav_top>img {
-    height: 50px;
+    height: 100px;
 }
 #nav_top>button {
     padding: 7px 16px;
@@ -72,7 +72,7 @@ html, body {
 
 #bottle {
     position: absolute;
-    height: 95vh;
+    height: 77vh;
     top: 0%;
     left: 38%;
     z-index: 990;
@@ -94,7 +94,7 @@ html, body {
 }
 #page1 h1 {
     width: 60vw;
-    background-color: rgb(153, 13, 13);
+    background-color: rgb(48, 126, 214);
     font-family: 'Antom', sans-serif;
     font-size: 13vw;
     font-weight: 900;

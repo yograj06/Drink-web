@@ -24,7 +24,7 @@ function show(){
       scrollTrigger: {
         trigger: "#bottle",
         scroller: "#main",
-        start: "top 5%",
+        start: "top 10%",
         end: "top -416%",
         scrub: true,
         pin: true
