@@ -72,7 +72,11 @@ html, body {
 
 #bottle {
     position: absolute;
+<<<<<<< HEAD
     height: 77vh;
+=======
+    height: 85vh;
+>>>>>>> fd04e28173d79d65c3ebc6c5105f901c9cc0f42e
     top: 0%;
     left: 38%;
     z-index: 990;
@@ -94,7 +98,11 @@ html, body {
 }
 #page1 h1 {
     width: 60vw;
+<<<<<<< HEAD
     background-color: rgb(48, 126, 214);
+=======
+    background-color: rgb(21, 98, 169);
+>>>>>>> fd04e28173d79d65c3ebc6c5105f901c9cc0f42e
     font-family: 'Antom', sans-serif;
     font-size: 13vw;
     font-weight: 900;
